@@ -21,7 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: wgracetyner
 minimal_mistakes_skin: dark
 search: true
-
+repository: "wgracetyner/uxblog"
+teaser: /assets/images/500x300.png
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -57,7 +58,7 @@ plugins:
 
 author:
   name   : "Whitney Tyner"
-  avatar : "/assets/images/avatar.jpg"
+  avatar : "/assets/images/avatar.png"
   bio    : "Lead UX Designer, Engineer"
   links:
     #- label: "Website"
@@ -88,7 +89,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -112,4 +113,3 @@ tag_archive:
   type: liquid
   path: /tags/
 
-theme: jekyll-theme-minimal
