@@ -62,40 +62,17 @@ Have worked with:
 - C#, Winforms (personal side projects)
 - HTML 5 and CSS (personal side projects)
 - Actionscript (project work)
-
+#### SOFT SKILLS
+Communication is one of my greatest strengths. I have a reputation for solving difficult problems with cross disciplinary teams. I am often pulled onto projects during a key phase of development to firefight high impact issues.<br>
+My experience with programming, art, and design make me a versatile candidate who can adapt to whatever role is needed. I thrive in environments that expect a high degree of personal ownership and agency.
 
 ### EDUCATION
-After one successful and exciting semester at the ETC, I was approached by the art director at Firaxis Games and offered the opportunity of a lifetime. I left CMU with lasting relationships and a ticket into my career in games.
-UNIVERSITY OF TENNESSEE AT CHATTANOOGA
-AUGUST 2004 TO MAY 2008
-Bachelor of Science | Computer Science: Software Systems
-Graduated Magna Cum Laude
-Awarded Highest Honors for University Honors project An Analysis and Evaluation of Noun Phrase Extraction Techniques
-user experience
-     UI Designer | 2D Artist Pittsburgh, PA
-UI Designer
-Hunt Valley, MD
-            SOFTWARE
-PROFICIENT WITH
-UE 4
-Unity
-Adobe Animate
-Photoshop Illustrator After Effects
-SKILLS
-Balsamiq OneNote Confluence
-FAMILIAR WITH
-HTML 5 & CSS Javascript
-Perforce Hansoft CodeCollab
-UnrealScript VBA & SQL
-      COMPUTER LANGUAGES
-  PROFICIENT WITH
-C++ 14 Actionscript
-SOFT SKILLS
-XML & LUA Blueprint (UMG)
-        Communication is one of my greatest strengths. I have a reputation for solving difficult problems with cross disciplinary teams. I am often pulled onto projects during a key phase of development to firefight high impact issues.
-My experience with programming, art, and design make me a versatile candidate who can adapt to whatever role is needed. I thrive in environments that expect a high degree of personal ownership and agency.
-   EDUCATION
-  CARNEGIE MELLON UNIVERSITY
+#### CARNEGIE MELLON UNIVERSITY
 AUGUST 2009 TO DECEMBER 2009
- Master of Entertainment Technology Candidate
-       wgracetyner@gmail.com • (423) 802-6650 • whitneytyner.com
+**Master of Entertainment Technology Candidate**
+After one successful and exciting semester at the ETC, I was approached by the art director at Firaxis Games and offered the opportunity of a lifetime. I left CMU with lasting relationships and a ticket into my career in games.
+#### UNIVERSITY OF TENNESSEE AT CHATTANOOGA
+AUGUST 2004 TO MAY 2008
+**Bachelor of Science | Computer Science: Software Systems**
+- Graduated Magna Cum Laude
+- Awarded Highest Honors for University Honors project An Analysis and Evaluation of Noun Phrase Extraction Techniques
