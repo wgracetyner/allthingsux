@@ -22,7 +22,7 @@ July 2011 to Present | Hunt Valley, MD
 
 | Project Title  | Duration  | Engine  | Roles  |
 |---|---|---|---|
-| **Marvel's Midnight Suns**  | 3 Years <br>*2/19 to present*  | UE4 <br>*(UMG)*  | Lead UI Designer <sub>11/19-Present</sub><br>Lead UI Engineer  <sub>2/19-5/20</sub> |
+| **Marvel's Midnight Suns**  | 3 Years <br>*2/19 to present*  | UE4 <br>*(UMG)*  | Lead UI Designer <br>Lead UI Engineer* |
 | **XCOM: Chimera Squad** <br> *(Pre-production only)*  | 5 Months <br>*4/18 to 11/18*  | UE3 <br>*(Scaleform, AS2)*  | (Only UI resource assigned)  |
 | **Cancelled Title**  | 1 Year 4 Months<br>*1/17 to 4/18*  | UE4<br>*(UMG)*  | Lead UI Designer <br>UI Engineer   |
 | **Civilization VI**  | 2 Years<br>*10/14 to 12/16*  | CIVTECH<br>*(LUA/XML)*  | Lead UI Designer<br>UI Engineer  |
