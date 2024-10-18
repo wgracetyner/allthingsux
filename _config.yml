@@ -13,17 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: move.to
-subtitle: a blog about ux in games
+title: whitney tyner
+subtitle: ux/ui
 email: wgracetyner@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of snippets, thoughts, and lessons learned about UX in games.
+  A collection of snippets, thoughts, and lessons learned about developing UX in games.
 #twitter_username: username
 github_username: wgracetyner
 minimal_mistakes_skin: mydark
 search: true
 repository: "wgracetyner/uxblog"
 teaser: /assets/images/500x300.png
+logo: "/assets/images/88x88.png"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
